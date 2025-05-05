@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leonardo Luis Benevides 
 
 - Hoje estudo JavaScript e Typescript
-- Especializando em Front-end
+- Especializando em FullStack
 - pronouns: ele/dele
 - Inglês como segundo idioma
 
